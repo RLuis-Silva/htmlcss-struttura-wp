@@ -35,15 +35,17 @@ main aside{
 
 
 main .sezione_main{
-  width: 45%;
+  width: 40%;
   height: 500px;
   background-color: orange;
   float:left;
-  margin-left: 40px;
+  /* margin-left: 40px; */
+  margin-left: 5%;
 }
 
 main #sezione_dx_inAlto, #sezione_dx_inBasso{
-  margin-left: 40px;
+  /* margin-left: 40px; */
+  margin-left: 5%;
   margin-bottom: 20px;
 }
 
